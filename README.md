@@ -15,3 +15,5 @@ create controller command: php artisan make:controller StudentController --resou
 run server command: php artisan serve
 
 http://localhost/laravel-8-crud/public/student
+
+https://render.com/docs/deploy-php-laravel-docker
